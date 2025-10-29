@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyExpense.ai - iOS Expense Tracking App
 
 ## Project Overview
@@ -30,3 +31,6 @@ myexpense.ai/
 ## Getting Started
 More details to be added as development progresses.
 
+=======
+# myexpense-ai
+>>>>>>> da7f48ca22fa68139d94f42a84e7ce22afd20539
